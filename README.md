@@ -11,7 +11,7 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://discord.gg/PK9KA64ybM">Kytra Bot</a> - A simple, multi-language Discord bot.</li>
+  <li><a href="https://discord.gg/epSapGNTfU">Shiru Bot</a> - A simple, multi-language Discord bot.</li>
 </ul>
 
 <h2>My stats</h2>
